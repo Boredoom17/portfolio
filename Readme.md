@@ -5,7 +5,7 @@ This project showcases my skills, projects, and language abilities with a clean,
 
 ## About Me
 
-I’m a BIM student passionate about AI and web development. I build apps and websites that solve real problems and create engaging experiences.
+I’m a BIM student passionate about AI and web development. I try to build apps and websites that solve real problems and create engaging experiences.
 
 ## Features
 
